@@ -24,14 +24,20 @@ This project is my version of W3Schools's bulb on-off code, allowing users to to
 3. Click on the light bulb image to toggle its state between on and off.
 4. Feel free to customize the project by modifying the HTML, CSS, or JavaScript files to suit your preferences or integrate it into other projects.
 
-## License
+# Live Demo
 
-This project is licensed under the MIT License.
+You can view the live demo of the project [here](https://ashikibrahim07.github.io/bulb-toggle/).
+
+
+## Acknowledgements
+
+This project was inspired by the bulb on-off code from the W3Schools website.
 
 ## Author
 
 Ashik Ibrahim S
 
-## Acknowledgements
 
-This project was inspired by the bulb on-off code from the W3Schools website.
+## License
+
+This project is licensed under the MIT License.
