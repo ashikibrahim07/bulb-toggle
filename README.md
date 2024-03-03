@@ -2,6 +2,16 @@
 
 This project is my version of W3Schools's bulb on-off code, allowing users to toggle the state of a light bulb image by clicking on it.
 
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Live Demo](#live-demo)
+- [Acknowledgements](#acknowledgements)
+- [Author](#author)
+- [License](#license)
+
 ## Description
 
 - This project implements a simple HTML/CSS/JavaScript solution to toggle the state of a light bulb image between on and off. When the user clicks on the light bulb image, it switches between displaying an illuminated bulb and a turned-off bulb.
