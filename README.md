@@ -27,10 +27,10 @@ This project is my version of W3Schools's bulb on-off code, allowing users to to
 1. Clone this repository to your local machine using Git Bash:
 
    ```bash
-   git clone https://github.com/your-username/bulb-toggle.git
+   git clone https://github.com/ashikibrahim07/bulb-toggle.git
    ```
    
-2. Open the `index.html` file in a web browser to view the bulb-toggle project.
+2. Open the `index.html` file in a wowser to view the bulb-toggle project.
 3. Click on the light bulb image to toggle its state between on and off.
 4. Feel free to customize the project by modifying the HTML, CSS, or JavaScript files to suit your preferences or integrate it into other projects.
 
