@@ -1,4 +1,4 @@
-# bulb-toggle
+# Bulb Toggle
 
 This project is my version of W3Schools's bulb on-off code, allowing users to toggle the state of a light bulb image by clicking on it.
 
